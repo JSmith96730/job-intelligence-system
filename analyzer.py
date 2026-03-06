@@ -1,6 +1,6 @@
 import re
 
-KEYWORDS = ["python", "c++", "unity", "fastapi", "aws", "docker", "rest", "api", "sql"]
+KEYWORDS = ["python", "c++", "unity", "fastapi", "aws", "docker", "rest", "api", "sql", "javascript", "react", "angular", "vue", "node", "express", "django", "flask"]
 
 def extract_keywords(text):
     found = []
